@@ -1,0 +1,8 @@
+{
+  "appId": "com.yourname.pulse",
+  "appName": "Pulse",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  }
+}
